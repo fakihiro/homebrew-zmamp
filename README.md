@@ -1,4 +1,4 @@
-# Zmamp for homebrew formula
+# Zmamp
 
 MAMP simple operation commnad
 
