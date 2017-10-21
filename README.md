@@ -1,9 +1,6 @@
-# Homebrew Zmamp
+# Zmamp for homebrew formula
+
 MAMP simple operation commnad
-
-## Discription
-
-Original Repository
 
 https://github.com/fakihiro/Zmamp
 
@@ -13,7 +10,6 @@ https://github.com/fakihiro/Zmamp
 ```
 $ brew tap fakihiro/zmamp
 $ brew install zmamp
-
 ```
 
 ## Usage
